@@ -1,7 +1,9 @@
+#include "Arduino.h"
 #ifndef OptrexLCD_h
 #define OptrexLCD_h 1
 
-#include <wiring.h>
+// #include <wiring.h>
+
 
 /* LCD Driver for OPTREX IM50240 (Active Surplus, Toronto, ON)
  *
